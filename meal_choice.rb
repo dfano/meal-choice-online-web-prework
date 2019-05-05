@@ -1,5 +1,5 @@
 def meal_choice(meal="meat")
-  puts "i want to eat #{meal}"
+  puts "#{meal}"
 end
 
 meal_choice("vegan")
